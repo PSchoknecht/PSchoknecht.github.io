@@ -1,8 +1,8 @@
 # Pia Schoknecht 
 
-I'm a PhD student at the University of Salzburg (Austria) studying the neurobiology of language.
-
 ![](images/pic_small.jpg)
+
+I'm a PhD student at the University of Salzburg (Austria) studying the neurobiology of language.
 
 ## CV
 MA Linguistics: Cognition and Communication (University of Marburg, Germany)
