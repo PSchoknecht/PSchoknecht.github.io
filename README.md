@@ -5,9 +5,10 @@
 I'm a PhD student at the University of Salzburg (Austria) studying the neurobiology of language.
 
 ## CV
-MA Linguistics: Cognition and Communication (University of Marburg, Germany)
 
-BA Language and Communication (University of Marburg, Germany)
+MA Linguistics: Cognition and Communication, University of Marburg, Germany, 2014
+
+BA Language and Communication, University of Marburg, Germany, 2012
 
 ## Publications
 
