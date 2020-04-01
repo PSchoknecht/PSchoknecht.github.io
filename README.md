@@ -1,13 +1,13 @@
 # Pia Schoknecht 
 
 <img align="left" width="250" src="images/pic_small.jpg">
-Postdoc in the Vasishth Lab  
-Dept. of Linguistics  
-University of Potsdam  
-14476 Potsdam, Germany  
+Postdoc in the Vasishth Lab<br/>
+Dept. of Linguistics<br/>
+University of Potsdam<br/>
+14476 Potsdam, Germany<br/>
 Email: schoknecht squiggle uni minus potsdam dot de 
-  
-  
+
+
 ## CV
 Doctoral Programme: Psychological, Neurological and Clinical Linguistics, University of Salzburg, Austria, (pending)
 
