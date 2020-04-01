@@ -2,15 +2,16 @@
 
 <img align="left" width="300" src="images/pic_small.jpg">
 
-    Postdoc in the Vasishth Lab
+   
+   Postdoc in the Vasishth Lab
   
-    Dept. of Linguistics
+   Dept. of Linguistics
   
-    University of Potsdam
+   University of Potsdam
   
-    14476 Potsdam, Germany
+   14476 Potsdam, Germany
   
-    Email: schoknecht squiggle uni minus potsdam dot de 
+   Email: schoknecht squiggle uni minus potsdam dot de 
   
   
   
