@@ -1,14 +1,23 @@
 # Pia Schoknecht 
 
-![](images/pic_small.jpg)
+<img align="left" width="200" src="images/pic_small.jpg">
+Postdoc in the Vasishth Lab
 
-I'm a PhD student at the University of Salzburg (Austria) studying the neurobiology of language.
+Dept. of Linguistics
+
+University of Potsdam
+
+14476 Potsdam, Germany
+
+Email: schoknecht squiggle uni minus potsdam dot de 
 
 ## CV
+Doctoral Programme: Psychological, Neurological and Clinical Linguistics, University of Salzburg, Austria, (pending)
 
 MA Linguistics: Cognition and Communication, University of Marburg, Germany, 2014
 
 BA Language and Communication, University of Marburg, Germany, 2012
+
 
 ## Publications
 
