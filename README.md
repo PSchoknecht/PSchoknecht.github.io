@@ -10,7 +10,6 @@ University of Potsdam<br/>
 Email: schoknecht squiggle uni minus potsdam dot de<br/>
 
 <br/>
-<br/>
 
 ## CV
 Doctoral Programme: Psychological, Neurological and Clinical Linguistics, University of Salzburg, Austria, (pending)
