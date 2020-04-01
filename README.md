@@ -18,6 +18,7 @@ MA Linguistics: Cognition and Communication, University of Marburg, Germany, 201
 
 BA Language and Communication, University of Marburg, Germany, 2012
 
+<br/>
 
 ## Publications
 
