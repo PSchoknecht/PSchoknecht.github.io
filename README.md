@@ -1,6 +1,6 @@
 # Pia Schoknecht 
 
-<img align="left" width="300" src="images/pic_small.jpg">
+<img align="left" width="250" src="images/pic_small.jpg">
 
    
    Postdoc in the Vasishth Lab
@@ -14,8 +14,6 @@
    Email: schoknecht squiggle uni minus potsdam dot de 
   
   
-  
-
 ## CV
 Doctoral Programme: Psychological, Neurological and Clinical Linguistics, University of Salzburg, Austria, (pending)
 
