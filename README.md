@@ -5,8 +5,9 @@ Postdoc in the Vasishth Lab<br/>
 Dept. of Linguistics<br/>
 University of Potsdam<br/>
 14476 Potsdam, Germany<br/>
-Email: schoknecht squiggle uni minus potsdam dot de 
+Email: schoknecht squiggle uni minus potsdam dot de<br/>
 
+<br/>
 
 ## CV
 Doctoral Programme: Psychological, Neurological and Clinical Linguistics, University of Salzburg, Austria, (pending)
