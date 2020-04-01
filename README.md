@@ -1,6 +1,6 @@
 # Pia Schoknecht 
 
-<img align="right" width="250" src="images/pic_small.jpg">
+<img align="right" width="350" src="images/pic_small.jpg">
 <br/>
 Postdoc in the Vasishth Lab<br/>
 Dept. of Linguistics<br/>
