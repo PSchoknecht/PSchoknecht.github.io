@@ -12,7 +12,9 @@ Email: schoknecht squiggle uni minus potsdam dot de<br/>
 <br/>
 
 ## CV
-Doctoral Programme: Psychological, Neurological and Clinical Linguistics, University of Salzburg, Austria, 2020
+Postdoctoral Researcher, Department of Linguistics, University of Potsdam, Germany,  2020 - ongoing
+
+Dr. phil: Psychological, Neurological and Clinical Linguistics, University of Salzburg, Austria, 2020
 
 MA Linguistics: Cognition and Communication, University of Marburg, Germany, 2014
 
