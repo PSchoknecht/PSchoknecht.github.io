@@ -1,6 +1,6 @@
 # Dr. Pia Schoknecht 
 
-<img width="300" src="images/pic_small.jpg">
+<img width="300" src="images/pia-schoknecht.jpg">
 
 <br/>
 Postdoc in the Vasishth Lab<br/>
@@ -18,14 +18,12 @@ Dr. phil: Psychological, Neurological and Clinical Linguistics, University of Sa
 
 MA Linguistics: Cognition and Communication, University of Marburg, Germany, 2014
 
-BA Language and Communication, University of Marburg, Germany, 2012
-
-<br/>
+BA Language and Communication, University of Marburg, Germany, 2012<br/>
 
 ## Publications
 
 ### Peer-reviewed
-Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (2022): The interaction of predictive processing and similarity-based retrieval interference: an ERP study, Language, Cognition and Neuroscience, https://doi.org/10.1080/23273798.2022.2026421
+Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (2022): The interaction of predictive processing and similarity-based retrieval interference: an ERP study, Language, Cognition and Neuroscience, <a href="https://doi.org/10.1080/23273798.2022.2026421">https://doi.org/10.1080/23273798.2022.2026421</a> 
 
 ### In Preparation
 Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (in prep.): *Internal model updating under interference: An ERP study across the lifespan*.
