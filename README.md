@@ -24,8 +24,8 @@ BA Language and Communication, University of Marburg, Germany, 2012
 
 ## Publications
 
-### Preprint
-Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (2019): *Looking forward does not mean forgetting about the past: ERP evidence for the interplay of predictive coding and interference during language processing*. Preprint, https://doi.org/10.1101/567560.
+### Peer-reviewed
+Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (2022): The interaction of predictive processing and similarity-based retrieval interference: an ERP study, Language, Cognition and Neuroscience, https://doi.org/10.1080/23273798.2022.2026421
 
 ### In Preparation
 Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (in prep.): *Internal model updating under interference: An ERP study across the lifespan*.
