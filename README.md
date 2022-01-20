@@ -1,4 +1,4 @@
-# Dr. Pia Schoknecht 
+# Dr Pia Schoknecht 
 
 <img width="300" src="images/tegeler_see.jpg">
 
