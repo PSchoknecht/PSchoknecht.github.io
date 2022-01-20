@@ -1,6 +1,6 @@
 # Dr. Pia Schoknecht 
 
-<img width="300" src="images/tegeler_see.jpg">
+<img width="300" src="images/pia-schoknecht.jpg">
 
 <br/>
 Postdoc in the Vasishth Lab<br/>
