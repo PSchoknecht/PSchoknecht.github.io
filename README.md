@@ -18,9 +18,7 @@ Dr. phil: Psychological, Neurological and Clinical Linguistics, University of Sa
 
 MA Linguistics: Cognition and Communication, University of Marburg, Germany, 2014
 
-BA Language and Communication, University of Marburg, Germany, 2012
-
-<br/>
+BA Language and Communication, University of Marburg, Germany, 2012<br/>
 
 ## Publications
 
