@@ -28,5 +28,3 @@ Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (in pr
 ### Dissertation
 Schoknecht, P. (2020): *The Interplay of Interference and Prediction during Language Comprehension*. (Doctoral dissertation).
 
-## Documents
-<a href="documents/EEG_info.pdf" target="_blank">Information about EEG experiments for participants (in German)</a>
