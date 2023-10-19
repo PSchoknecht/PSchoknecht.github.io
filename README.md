@@ -19,6 +19,9 @@ Email: schoknecht squiggle uni minus potsdam dot de<br/>
 
 ## Publications
 
+### Preprint
+Schoknecht, P., & Vasishth, S. (2023). Do syntactic and semantic similarity lead to interference effects? Evidence from self-paced reading and event-related potentials using German. <a href="https://osf.io/preprints/psyarxiv/cwymg">https://osf.io/preprints/psyarxiv/cwymg</a> 
+
 ### Peer-reviewed
 Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (2022): The interaction of predictive processing and similarity-based retrieval interference: an ERP study, Language, Cognition and Neuroscience, <a href="https://doi.org/10.1080/23273798.2022.2026421">https://doi.org/10.1080/23273798.2022.2026421</a> 
 
