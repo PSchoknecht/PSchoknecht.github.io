@@ -1,14 +1,19 @@
 # Dr. Pia Schoknecht 
 
-<img width="300" src="images/pia-schoknecht.jpg">
+<img width="280" align="right" src="images/pia-schoknecht.jpg"> 
 
 <br/>
-Postdoc in the Vasishth Lab<br/>
-Dept. of Linguistics<br/>
-University of Potsdam<br/>
-14476 Potsdam, Germany<br/>
-Email: schoknecht squiggle uni minus potsdam dot de<br/>
+In my work as a Postdoc in the Vasishth Lab at the University of Potsdam, Germany, I use behavioral and electrophysiological methods to investigate how we use our memory and prediction during language processing.  
+
+<br/>
+<br/>
+Email: pia.schoknecht at uni minus potsdam dot de<br/>
+<br/>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0304-6787" href="https://orcid.org/0000-0003-0304-6787" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-0304-6787</a></div>
+
+<br/>
+<br/>
+<br/>
 <br/>
 
 ## CV
