@@ -24,11 +24,10 @@ Email: pia.schoknecht at uni minus potsdam dot de<br/>
 
 ## Publications
 
-### Preprint
-Schoknecht, P., & Vasishth, S. (2023). Do syntactic and semantic similarity lead to interference effects? Evidence from self-paced reading and event-related potentials using German. <a href="https://osf.io/preprints/psyarxiv/cwymg">https://osf.io/preprints/psyarxiv/cwymg</a> 
-
 ### Peer-reviewed
-Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (2022): The interaction of predictive processing and similarity-based retrieval interference: an ERP study, Language, Cognition and Neuroscience, <a href="https://doi.org/10.1080/23273798.2022.2026421">https://doi.org/10.1080/23273798.2022.2026421</a> 
+Schoknecht, P., Yadav, H. and Vasishth, S. (2025). Do syntactic and semantic similarity lead to interference effects? Evidence from self-paced reading and event-related potentials using German. Journal of Memory and Language. 141. <a href="https://doi.org/10.1016/j.jml.2024.104599">https://doi.org/10.1016/j.jml.2024.104599</a> 
+
+Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (2022): The interaction of predictive processing and similarity-based retrieval interference: an ERP study. Language, Cognition and Neuroscience, 37(7), 883-901. <a href="https://doi.org/10.1080/23273798.2022.2026421">https://doi.org/10.1080/23273798.2022.2026421</a> 
 
 ### In Preparation
 Schoknecht, P., Roehm, D., Schlesewsky, M. and Bornkessel-Schlesewsky, I. (in prep.): *Internal model updating under interference: An ERP study across the lifespan*.
