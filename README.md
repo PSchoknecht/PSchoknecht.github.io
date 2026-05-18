@@ -3,7 +3,13 @@
 <img width="280" align="right" src="images/pia-schoknecht.jpg"> 
 
 <br/>
-I work as a Postdoc in the Vasishth Lab at the University of Potsdam, Germany. I use behavioral and electrophysiological methods to investigate how we use our memory and prediction during language processing.  
+I work as a Postdoc in the Vasishth Lab at the University of Potsdam, Germany. I use behavioral and electrophysiological methods to investigate sentence processing. 
+
+My interests:
+* memory processes
+* prediction
+* the role of grammar during sentence processing
+* task effects 
 
 <br/>
 <br/>
